@@ -1,3 +1,5 @@
+<?php
+"Content-type: text/xml"
 "<?xml version='1.0' encoding='UTF-8'?><channel>
 <item>
 <guid>https://www.youtube.com/watch?v=7rF1K2TH2Gw</guid>
